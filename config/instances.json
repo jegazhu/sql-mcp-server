@@ -1,0 +1,9 @@
+{
+  "default": {
+    "name": "default",
+    "server": "LAPTOP-3020T4VA",
+    "database": "master",
+    "trusted_connection": true,
+    "driver": "SQL Server Native Client 11.0"
+  }
+}

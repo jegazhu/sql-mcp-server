@@ -1,0 +1,6 @@
+{
+  "max_backup_age_hours": 24,
+  "require_full_recovery": true,
+  "require_backup_checksum": true,
+  "min_backup_size_mb": 100
+}
